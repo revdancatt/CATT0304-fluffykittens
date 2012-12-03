@@ -1,0 +1,50 @@
+<html>
+<head>
+	<title>Fluffykittens.com</title>
+
+    <meta name=apple-mobile-web-app-capable content=yes />
+    <meta name=apple-mobile-web-app-status-bar-style content=black-translucent />
+    <meta name=viewport content=width=device-width />
+    <meta name=viewport content=user-scalable=no>
+    <link href="css/main.css?v=0.1" rel="stylesheet">
+    <script type="text/javascript" src="//use.typekit.net/vjj6pls.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+</head>
+<body>
+    <img class="holder">
+    <canvas class="sourceCanvas" width="1" height="5"></canvas>
+
+    <div class="r1 row"></div>
+    <div class="r2 row"></div>
+    <div class="r3 row"></div>
+    <div class="r4 row"></div>
+    <div class="r5 row"></div>
+
+    <h1>fluffykittens.com</h1>
+    <div class="neko sitting"></div>
+
+    <script src="js/jquery-1.8.3.min.js"></script> 
+    <script src="js/control.js"></script> 
+    <script src="js/neko.js"></script> 
+
+    <script>
+        $(document).ready(function() {
+            control.init();
+            neko.init();
+        });
+    </script>
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30249008-5']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+</body>
+</html>
