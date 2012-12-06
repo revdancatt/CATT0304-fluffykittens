@@ -70,3 +70,19 @@ h1 {
 .scratch2 {  background-position: -96px 0; }
 .sleeping1 {  background-position: -32px -128px; }
 .sleeping2 {  background-position: -96px -128px; }
+
+@media screen and (max-width: 399px) {
+    body { font-size: 0.6em;}
+}
+
+@media screen and (min-width: 400px) {
+    body { font-size: 0.6em;}
+}
+
+@media screen and (min-width: 600px) {
+    body { font-size: 0.7em;}
+}
+
+@media screen and (min-width: 800px) {
+    body { font-size: 1em;}
+}
