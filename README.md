@@ -14,6 +14,8 @@ service to load in the remote image and treat it as data on an canvas element.
 
 + Running: http://www.fluffykittens.com/
 
+Oh I forgot, I also serve some images to the LittlePrinter from this domain.
+
 TODO
 ====
 
