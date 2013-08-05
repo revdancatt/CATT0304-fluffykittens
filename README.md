@@ -1,7 +1,7 @@
 ![Screen Shot](http://cattopus23.com/img/panel-CATT0304.png)
 
-fluffykittens.com
-=================
+CATT0304 fluffykittens.com
+==========================
 
 I've had this domain _forever_ and keep meaning to do something with it. In the meantime
 it has a neko cat on there that animates now and then, and goes to sleep if the mouse doesn't
